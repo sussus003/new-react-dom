@@ -4,7 +4,7 @@ function About() {
   return (
     <>
       
-      <Nav />
+      <Nav/>
       <div>About</div>
     </>
   );
